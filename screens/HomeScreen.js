@@ -48,7 +48,7 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <ImageBackground
-      source={require("../assets/images/game_background_active.png")}
+      source={require("../assets/images/BG.jpg")}
       style={styles.background}
     >
       <View style={styles.container}>
